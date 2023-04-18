@@ -1,4 +1,4 @@
-## Analyze A/B Text Results
+## Analyze A/B Test Results
 
 ### Project Description
 
@@ -6,7 +6,7 @@ Course: “Practical Statistics” offered by Udacity as part of their Data Anal
 
 Data: Almost 300,000 rows of website user data detailing whether a user received a new or old (“treatment vs control”) version of a website landing page and whether they “converted” (i.e., bought the company’s product) or not.
 
-Project Tasks:
+Project Tasks:  Using Python in a [Jupyter notebook](https://brianallan.github.io/AB-Testing-New-Webpage/)...
 
 - Clean the data of mismatches and duplicates.
 - Perform the statistical analysis for the A/B test using three different approaches: bootstrapping simulation, a built-in function, and logistic regression.
