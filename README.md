@@ -2,11 +2,11 @@
 
 ### Project Description
 
-Course: “Practical Statistics” offered by Udacity as part of their Data Analyst Nanodegree Program.
+_Course_: **“Practical Statistics”** offered by Udacity as part of their **Data Analyst Nanodegree** Program.
 
-Data: Almost 300,000 rows of website user data detailing whether a user received a new or old (“treatment vs control”) version of a website landing page and whether they “converted” (i.e., bought the company’s product) or not.
+_Data_: Almost 300,000 rows of website user data detailing whether a user received a new or old (“treatment vs control”) version of a website landing page and whether they “converted” (i.e., bought the company’s product) or not.
 
-Project Tasks:  Using Python in a [Jupyter notebook](https://brianallan.github.io/AB-Testing-New-Webpage/)...
+_Project Tasks_:  Using `Python` in a template-supplied [Jupyter notebook](https://brianallan.github.io/AB-Testing-New-Webpage/)...
 
 - Clean the data of mismatches and duplicates.
 - Perform the statistical analysis for the A/B test using three different approaches: bootstrapping simulation, a built-in function, and logistic regression.
@@ -22,4 +22,4 @@ countries.csv
 
 ### Tools Used
 
-Python with pandas, numpy, random, matplotlib, and statsmodels in a Jupyter notebook.
+`Python` with `pandas`, `numpy`, `random`, `matplotlib`, and `statsmodels` in a Jupyter notebook.
